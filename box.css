@@ -1,0 +1,21 @@
+.box{
+    text-align: center;
+    padding-bottom: 20px;
+    border: 1px slategray;
+    background-color: gray;
+    margin-right: auto;
+
+}
+.temp{
+    padding-left: 200px;
+
+
+}
+iframe{
+    height:750px;
+    width: 850px; ;
+}
+body{
+
+    background-color: aqua;
+}
